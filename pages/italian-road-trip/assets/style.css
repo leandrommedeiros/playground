@@ -1,112 +1,54 @@
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f5f5f5;
-    color: #333;
+.coastal {
+    background-color: #17a2b8; /* Teal */
+    color: #fff;
 }
 
-img {
-    max-width: 760px;
+.countryside {
+    background-color: #28a745; /* Green */
+    color: #fff;
 }
 
-h1, h2, h3, h4 {
-    color: #2c3e50;
-    text-align: center;
+.flat-countryside {
+    background-color: #ffc107; /* Yellow */
+    color: #000;
 }
 
-h1 {
-    margin: 20px 0;
-    font-size: 36px;
+.flat-terrain {
+    background-color: #6c757d; /* Gray */
+    color: #fff;
 }
 
-h2 {
-    margin: 20px 0 10px;
-    font-size: 28px;
+.hilly {
+    background-color: #007bff; /* Blue */
+    color: #fff;
 }
 
-h4 {
-    margin: 10px 0 5px;
-    font-size: 18px;
+.historic-city {
+    background-color: #6f42c1; /* Purple */
+    color: #fff;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-    max-width: 800px;
-    margin: 0 auto;
+.lake-views {
+    background-color: #20c997; /* Mint */
+    color: #fff;
 }
 
-li {
-    margin-bottom: 20px;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+.mountainous-roads {
+    background-color: #fd7e14; /* Orange */
+    color: #fff;
 }
 
-a {
-    color: #3498db;
-    text-decoration: none;
+.mountainous-terrain {
+    background-color: #dc3545; /* Red */
+    color: #fff;
 }
 
-a:hover {
-    text-decoration: underline;
+.rolling-hills {
+    background-color: #6fba1c; /* Light Green */
+    color: #fff;
 }
 
-iframe {
-    width: 100%;
-    height: 400px;
-    border: none;
-    margin-top: 10px;
-}
-
-hr {
-    border: none;
-    height: 1px;
-    background-color: #ddd;
-    margin: 40px 0;
-}
-
-p {
-    max-width: 800px;
-    margin: 0 auto 20px;
-    text-align: center;
-    font-size: 16px;
-    line-height: 1.6;
-}
-
-h3, h4 {
-    text-align: left;
-}
-
-li > h2, li > h4 {
-    margin-left: 20px;
-}
-
-@media (max-width: 768px) {
-    body {
-        padding: 10px;
-    }
-
-    ul {
-        padding: 0 10px;
-    }
-
-    li {
-        margin-bottom: 10px;
-        padding: 10px;
-    }
-
-    h1 {
-        font-size: 28px;
-    }
-
-    h2 {
-        font-size: 22px;
-    }
-
-    h4 {
-        font-size: 16px;
-    }
+.scenic-roads {
+    background-color: #843b62; /* Maroon */
+    color: #fff;
 }
