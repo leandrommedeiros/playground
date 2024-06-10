@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/print.css">
+    <link rel="icon" type="image/x-icon" href="./assets/images/favicon.png">
+    <script type="text/javascript" src="./assets/js/toolbar.js"></script>
+    <meta charset="UTF-8">
+    <meta name="description" content="Professional Resume">
+    <meta name="author" content="Leandro M. Medeiros">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body class="workspace-container" onload="zoomSetValue(250)">
+    <div class="toolbar">
+      <input id="zoom-value" type="number" onkeydown="zoomSet(this)" onchange="zoomSet(this)" value="100"></input>
+      <button onclick="zoomIn()"><span>+</span></button>
+      <button onclick="zoomOut()"><span>-</span></button>
+      <button onclick="zoomSetValue(100)"><span>Reset</span></button>
+      <button onclick="printPage()"><span>Print</span></button>
+      <button onclick="toggleEdit()"><span>Edit Toggle</span></button>
+    </div>
+    <div class="resume-page" id="paper-sheet-1">
+      <div class="resume-page-header">
+        <img src="assets/images/profile.JPG" class="profile-picture" alt="Profile Picture">
+        <h1>Leandro M. Medeiros</h1>
+        <div class="resume-page-header-group">
+          <h3>Software Engineer</h3>
+          <span>&nbsp;</span>
+          <h4>| Brazilian | 32 years old | Single</h4>
+        </div>
+        <h4>
+          <a href="tel:+31638401140" class="phone">+31 (0) 6 38 40 11 40</a> | &#128231;
+          <a target="_blank" href="mailto:leandro.m.medeiros@me.com">leandro.m.medeiros@me.com</a> | 
+          <img src="assets/images/in-logo.webp" class="linkedin-logo"> <a target="_blank" href="https://linkedin.com/in/medeirosleandro">linkedin.com/in/MedeirosLeandro</a>
+        </h4>
+      </div>
+      <div class="page-layout-columns">
+        <div class="page-layout-column column-content">
+          <h2>PROFILE</h2>
+          <span class="column-content-summary">
+            Self-motivated software engineer with long-term experience in dealing with project owners and stakeholders during both design and development phases. Organised and focused on problem resolution as well as deadline compliance.
+          </span>
+          <h2>CAREER</h2>
+          <div class="career-timeline">
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2020-04</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience timeline-experience-lg">
+                  <span class="experience-title">SENIOR SOFTWARE ENGINEER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">Coolblue B.V.</span>
+                    <span class="experience-location-city">Rdam/Netherlands</span>
+                  </div>
+                  <p><strong><i>Main Project Participations</i></strong></p>
+                  <ul class="experience-content">
+                    <li>
+                      <span>e-Commerce - <i>Shopping Cart & Checkout domains</i></span>
+                      <div class="experience-subcontent-columns">
+                        <ul class="experience-subcontent-column">
+                          <li>PHP 8.1 (with Symfony)</li>
+                          <li>MySQL 8.0 (RDS)</li>
+                          <li>Redis</li>
+                          <li>Multiple API integrations</li>
+                        </ul>    
+                        <ul class="experience-subcontent-column">
+                          <li>Docker</li>
+                          <li>AWS EC2</li>
+                          <li>Twig template system and proprietary visual component library</li>
+                        </ul>
+                      </div>
+                    </li>
+                    <li>
+                      <span>Micro-service Group #1 - <i>Data persistence</i></span>
+                      <div class="experience-subcontent-columns">
+                        <ul class="experience-subcontent-column">
+                          <li>C# .Net Core 5 ~ Core 6</li>
+                          <li>Rest API with private key authentication</li>
+                        </ul>    
+                        <ul class="experience-subcontent-column">
+                          <li>Oracle (RDS)</li>
+                          <li>AWS Lambda</li>
+                        </ul>
+                      </div>
+                    </li>
+                    <li>
+                      <span>Micro-service Group #2 - <i>Event Sourcing</i></span>
+                      <div class="experience-subcontent-columns">
+                        <ul class="experience-subcontent-column">
+                          <li>TypeScript (Node.js 16)</li>
+                          <li>MySQL (RDS)</li>
+                          <li>DynamoDB (NoSQL)</li>
+                          <li>Kafka Integration</li>
+                        </ul>    
+                        <ul class="experience-subcontent-column">
+                          <li>AWS Lambda + EC2 + S3</li>
+                          <li>AWS SQS & SNS</li>
+                          <li>AWS Cloudformation</li>
+                          <li>OAuth2 support</li>
+                        </ul>
+                      </div>
+                    </li>
+                  </ul>
+                  <p><strong><i>Accomplishments</i></strong></p>
+                  <ul class="experience-content">
+                    <li><span>Negotiated a 10-day-off-sprint time to build a proof of concept for a Web-checkout rule engine.</span>
+                      <ul class="experience-content-item">
+                        <li>Convinced the Roadmap Board to invest in it as 1-year-long project</li>
+                        <li>Facilitated brainstorming and refinement sessions</li>
+                        <li>After switching teams to find a new challenge, continued to support the team by acting as stakeholder</li>
+                      </ul>
+                    </li>
+                    <li>Prepared and hosted workshops over good API practices, Clean Architecture, Docker usage, and Composer features.</li>
+                    <li>Was one of the official trainers for the company's <i>GIT Advanced Course</i> formation for employees for over a year.</li>
+                    <li>Part of the 4-people task force responsible for migrating CI-pipelines from Scrutinizer to JetBrains' TeamCity and GitHub's Actions.</li>
+                    <li>Onboarded 6 new colleagues by choosing the appropriate teaching level (facilitation, coaching, mentoring or teaching) and providing structured feedback (STARR or DESC) during one-to-one's.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="page-layout-column column-skills">
+          <h2>SKILLS</h2>
+          <h4 class="skill-category-title">Programming Languages</h4>
+          <div class="skill-category-container">
+            <div class="skill-category-column-name">
+              <p>Action Script</p>
+              <p>C / C++</p>
+              <p>C-Sharp</p>
+              <p>Delphi</p>
+              <p>JAVA</p>
+              <p>JavaScript</p>
+              <p>Objective-C</p>
+              <p>PHP</p>
+              <p>TypeScript</p>
+            </div>
+            <div class="skill-category-column-point">
+              <!-- Action Script -->
+              <div class="skill-category-point-group">
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point"></span>
+              </div>
+              <!-- C / C++ -->
+              <div class="skill-category-point-group">
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point"></span>
+                <span class="skill-point"></span>
+              </div>
+              <!-- C-Sharp -->
+              <div class="skill-category-point-group">
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point"></span>
+              </div>
+              <!-- Delphi -->
+              <div class="skill-category-point-group">
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+              </div>
+              <!-- JAVA -->
+              <div class="skill-category-point-group">
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point"></span>
+                <span class="skill-point"></span>
+                <span class="skill-point"></span>
+              </div>
+              <!-- JavaScript -->
+              <div class="skill-category-point-group">
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+              </div>
+              <!-- Objective-C -->
+              <div class="skill-category-point-group">
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point"></span>
+                <span class="skill-point"></span>
+                <span class="skill-point"></span>
+                <span class="skill-point"></span>
+              </div>
+              <!-- PHP -->
+              <div class="skill-category-point-group">
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+              </div>
+              <!-- TypeScript -->
+              <div class="skill-category-point-group">
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+                <span class="skill-point skill-point-active"></span>
+              </div>
+            </div>
+          </div>
+          <h4 class="skill-category-title">Software Architectures</h4>
+          <p><strong>Solution level</strong></p>
+          <div class="skill-category-container">
+            <div class="skill-category-column-name-full">
+              <p>Service-oriented</p>
+              <p>Client-Server</p>
+              <p>Event Sourcing</p>
+            </div>
+            </div>
+          <p><strong>Code-base level</strong></p>
+          <div class="skill-category-container">
+            <div class="skill-category-column-name-full">
+              <p>Clean / Layered / Onion</p>
+              <p>Model-View-Controller</p>
+              <p>Event Streaming</p>
+              <p>Event Bus</p>
+              <p>Broker</p>
+              <p>SOLID principles</p>
+            </div>
+          </div>
+          <h4 class="skill-category-title">Technologies</h4>
+          <p><strong>Databases</strong></p>
+          <div class="skill-category-container">
+            <div class="skill-category-column-name">
+              <p><i>MySQL</i></p>
+              <p><i>Oracle</i></p>
+              <p><i>DynamoDB</i></p>
+            </div>
+            <div class="skill-category-column-point">              
+              <p><i>Postgres</i></p>
+              <p><i>Firebird</i></p>
+              <p><i>SQLite</i></p>
+            </div>
+          </div>
+          <p><strong>FIFO</strong></p>
+          <div class="skill-category-container">
+            <div class="skill-category-column-name">
+              <p><i>AWS SNS</i></p>
+              <p><i>Apache Kafka</i></p>
+            </div>
+            <div class="skill-category-column-point">              
+              <p><i>AWS SQS</i></p>
+            </div>
+          </div>
+          <!-- <p><strong>Tools</strong></p>
+          <div class="skill-category-container">
+            <div class="skill-category-column-name">
+              <p><i>Docker</i></p>
+              <p><i>Linux</i></p>
+              <p><i>CI</i></p>
+            </div>
+            <div class="skill-category-column-point">              
+              <p><i>macOS</i></p>
+              <p><i>MS Windows</i></p>
+              <p><i>CD</i></p>
+            </div>
+          </div> -->
+        </div>
+      </div>
+    </div>
+    <div class="resume-page page-no-header page-no-footer" id="paper-sheet-2">
+      <div class="page-layout-columns">
+        <div class="page-layout-column column-content">
+          <div class="career-timeline">
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2019-03</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience">
+                  <span class="experience-title">SOFTWARE ENGINEER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">Youwe Digital Agency</span>
+                    <span class="experience-location-city">Rdam/Netherlands</span>
+                  </div>
+                  <ul class="experience-content">
+                    <li>
+                      <span>Vink VTS (Magento 2, multi-store) > <a target="_blank" href="https://vinkvts.nl">vinkvts.nl</a></span>
+                      <!-- 
+                      <div class="experience-subcontent-columns">
+                        <ul class="experience-subcontent-column">
+                          <li>Holding <a target="_blank" href="https://vinkvts.nl">vinkvts.nl</a></li>
+                          <li>NL <a target="_blank" href="https://vinkkunststoffen.nl">vinkkunststoffen.nl</a></li>
+                          <li>Finland <a target="_blank" href="https://vink.fi">vink.fi</a></li>
+                        </ul>    
+                        <ul class="experience-subcontent-column">
+                          <li>Germany <a target="_blank" href="https://deutsche-adp.de">deutsche-adp.de</a></li>
+                          <li>Sweden <a target="_blank" href="https://vink.se">vink.se</a></li>
+                          <li>Switzerland <a target="_blank" href="https://vink.ch">vink.ch</a></li>
+                        </ul>
+                      </div>
+                      -->
+                    </li>
+                    <li>
+                      <span>Unipart Group (Magento 2, dedicated code-bases)</span>
+                      <div class="experience-subcontent-columns">
+                        <ul class="experience-subcontent-column">
+                          <li>B2B <a target="_blank" href="https://b2b.unipartrail.com">b2b.unipartrail.com</a></li>
+                        </ul>    
+                        <ul class="experience-subcontent-column">
+                          <li>B2C <a target="_blank" href="https://unipartner.co.uk">unipartner.co.uk</a></li>
+                        </ul>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2018-08</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience">
+                  <span class="experience-title">MAGENTO SENIOR DEVELOPER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">Itelios – A Capgemini Company</span>
+                    <span class="experience-location-city">SP/Brazil</span>
+                  </div>
+                  <ul class="experience-content">
+                    <li>
+                      <span>[B2B] Pernod-Ricard (Magento 2, dedicated code-bases)</span>
+                      <!--
+                      <div class="experience-subcontent-columns">
+                        <ul class="experience-content-item">
+                          <li>Brazilian store <a target="_blank" href="https://www.drinksandcommunity.com.br">drinksandcommunity.com.br</a></li>
+                          <li>Argentinian store <a target="_blank" href="https://www.drinksandcommunity.com.ar">drinksandcommunity.com.ar</a></li>
+                          <li>Mexican store <a target="_blank" href="https://www.drinksandcommunity.com.mx">drinksandcommunity.com.mx</a></li>
+                        </ul>    
+                      </div>
+                      -->
+                    </li>
+                    <li>
+                      <span>[B2C] Regina Festas - Shér Store</span><!-- <a target="_blank" href="https://www.reginafestas.com.br/">lojasher.com.br</a>--></li>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div> 
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2017-05</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience">
+                  <span class="experience-title">MAGENTO BACKEND DEVELOPER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">WEBJUMP!</span>
+                    <span class="experience-location-city">SP/Brazil</span>
+                  </div>
+                  <p>Magento 2.x module development using Observers, Plugins, DI, Knockout.js e Zend 2. Published stores:</p>
+                  <ul class="experience-content">
+                    <li><span>[Omni-channel] Bricomax Brazil:</span> <a target="_blank" href="https://www.obramax.com.br/">obramax.com.br</a></li>
+                    <li><span>[B2B] P&G for Partners:</span> <a target="_blank" href="https://pgsupplier.com/">parceiropg.com.br</a></li>
+                    <li><span>[B2B] Pirelli Tires:</span> <a target="_blank" href="https://www.campneus.com.br/">campneus.com.br</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2015-06</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience">
+                  <span class="experience-title">SENIOR SOFTWARE DEVELOPER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">Galileu LOG LTDA.</span>
+                    <span class="experience-location-city">SP/Brazil</span>
+                  </div>
+                  <p>Logistic & load tracking solutions, integrating docks, shipping, routes and deliveries. Built with PHP 5.3, Apache Flex frontend and PostgreSQL database. Cases:</p>
+                  <ul class="experience-content-column">
+                    <li>Arcelor</li>
+                    <li>Bunge</li>
+                    <li>Copersucar</li>
+                  </ul>
+                  <ul class="experience-content-column">
+                    <li>Heineken</li>
+                    <li>Makro</li>
+                    <li>MCassab</li>
+                  </ul>
+                  <ul class="experience-content-column">
+                    <li>Nestlé</li>
+                    <li>Santher</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2014-12</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience">
+                  <span class="experience-title">MEDIUM SOFTWARE ENGINEER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">Washington Inventory Services – Brazil</span>
+                    <span class="experience-location-city">SP/Brazil</span>
+                  </div>
+                  <p>Inventory services company, internal development.</p>
+                  <ul class="experience-content">
+                    <li>
+                      <span>Coordinated team to upgrade legacy system, implementing GIT and coaching Agile (SCRUM)</span>
+                      <!--
+                      <span>Team coordinator</span>
+                      <div class="experience-subcontent-columns">
+                        <ul class="experience-content-item">
+                          <li>Upgraded legacy system.</li>
+                          <li>Implemented version control system (GIT) & coached the team.</li>
+                          <li>Applied agile method – SCRUM via <i>Trello</i>.</li>
+                        </ul>    
+                      </div>
+                      -->
+                    </li>
+                    <li>
+                      <span>Designed New Operation Management Platform with a Rest-based PHP backend</span>
+                      <!--
+                      <span>New Operation Management Platform</span>
+                      <div class="experience-subcontent-columns">
+                        <ul class="experience-content-item">
+                          <li>Designed frontend and database.</li>
+                          <li>Requirements gathering.</li>
+                          <li>Developed mobile module (Android).</li>
+                          <li>Defined REST Web Service business rules.</li>
+                          <li>Implemented code – PHP + Bootstrap CSS.</li>
+                        </ul>    
+                      </div>
+                      -->
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2011-05</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience">
+                  <span class="experience-title">MEDIUM SOFTWARE DEVELOPER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">2M Solutions</span>
+                    <span class="experience-location-city">SP/Brazil</span>
+                  </div>
+                  <p>Hospital ERP and medical imaging management.</p>
+                  <ul class="experience-content">
+                    <li>
+                      <span>Developed the company’s first web product with Bootstrap CSS + <i>MonsterfyMVC</i> proprietary PHP framework and a REST web service running on Windows Server, developed with Delphi XE6. The system reached 3000+ study reports digitally signed / month.</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2010-04</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience timeline-experience-md">
+                  <span class="experience-title">TRAINEE SOFTWARE DEVELOPER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">Extension Technologies</span>
+                    <span class="experience-location-city">SP/Brazil</span>
+                  </div>
+                  <p><i>Service & Retail</i> management software built with JAVA and Delphi.</p>
+                  <!--
+                  <ul class="experience-content">
+                    <li>Retail management software development - sales; storage; client control; provider control;</li>
+                    <li>Prospection / Software presentation.</li>
+                    <li>User training.</li>
+                  </ul>
+                  -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="page-layout-column column-skills">
+          <h2 style="margin-top: 0px">EDUCATION</h2>
+          <p style="margin-top: 10px;"><strong>Software Development & Analysis</strong></p>
+          <div class="skill-category-container">
+            <div class="skill-category-column-name-spacious">
+              <p><i>Methodist University of São Paulo</i></p>
+            </div>
+            <div class="skill-category-column-point">
+              <p class="skill-category-value-sm">D.N.F.</p>
+            </div>
+          </div>
+          <p style="margin-top: 10px;"><strong>iOS Developer</strong></p>
+          <div class="skill-category-container">
+            <div class="skill-category-column-name-spacious">
+              <p><i>Caelum Systems</i></p>
+            </div>
+            <div class="skill-category-column-point">
+              <p class="skill-category-value-sm">50 hours</p>
+            </div>
+          </div>
+          <p style="margin-top: 10px;"><strong>PHP Developer Formation</strong></p>
+          <div class="skill-category-container">
+            <div class="skill-category-column-name-spacious">
+              <p><i>4Linux Open Software</i></p>
+            </div>
+            <div class="skill-category-column-point">
+              <p class="skill-category-value-sm">160 hours</p>
+            </div>
+          </div>
+          <p style="margin-top: 10px;"><strong>Technician Programmer</strong></p>
+          <div class="skill-category-container">
+            <div class="skill-category-column-name-spacious">
+              <p><i>Pentagon Institute</i></p>
+            </div>
+            <div class="skill-category-column-point">
+              <p class="skill-category-value-sm">2 years</p>
+            </div>
+          </div>
+          <h2 style="margin-top: 40px">LANGUAGES</h2>
+          <div class="skill-category-container">
+            <div class="skill-category-column-name-spacious">
+              <p>Portuguese</p>
+              <p>English</p>
+              <p>Spanish</p>
+              <p>Dutch</p>
+            </div>
+            <div class="skill-category-column-point">
+              <p class="skill-category-value">Native</p>
+              <p class="skill-category-value">Fluent</p>
+              <p class="skill-category-value">Beginner</p>
+              <p class="skill-category-value">Beginner</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="resume-page-footer">
+        <a target="_blank" href="https://about.me/leandro.medeiros"><img src="assets/images/qr-code.png" class="qr-code" alt="QR-Code"></a>
+        <h4>
+          <a href="tel:+31638401140" class="phone">+31 (0) 6 38 40 11 40</a> | &#128231;
+          <a target="_blank" href="mailto:leandro.m.medeiros@me.com">leandro.m.medeiros@me.com</a> | 
+          <a target="_blank" href="https://linkedin.com/in/medeirosleandro"><img src="assets/images/linkedin-logo.png" class="linkedin-logo logo-dropshadow">/in/MedeirosLeandro</a>
+        </h4>
+        <h4>
+          Boompjes 43 Q, 3011 XB, Rotterdam - Netherlands
+        </h4>
+      </div>
+    </div>
+    <!--
+    <div class="resume-page page-no-header" id="paper-sheet-3">
+      <div class="page-layout-columns">
+        <div class="page-layout-column column-content">
+          <div class="career-timeline">
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2011-05</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience">
+                  <span class="experience-title">MEDIUM SOFTWARE DEVELOPER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">2M Solutions</span>
+                    <span class="experience-location-city">SP/Brazil</span>
+                  </div>
+                  <p>Health care custom software. Hospital ERP and medical imaging management.</p>
+                  <ul class="experience-content">
+                    <li>
+                      <span>Developed the company’s first web product.</span>
+                      <div class="experience-subcontent-columns">
+                        <ul class="experience-content-item">
+                          <li>Bootstrap CSS + <i>MonsterfyMVC</i> framework.</li>
+                          <li>REST web service running on Windows Server, developed with Delphi XE6 (legacy Firebird database).</li>
+                          <li>3000+ study reports digitally signed / month.</li>
+                        </ul>    
+                      </div>
+                    </li>
+                    <li>Created custom tools for monthly subscribers.</li>
+                    <li>Improvement & maintenance manager for both RIS and PACS (2011 – 2012).</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2010-04</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience timeline-experience-md">
+                  <span class="experience-title">TRAINEE SOFTWARE DEVELOPER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">Extension Technologies</span>
+                    <span class="experience-location-city">SP/Brazil</span>
+                  </div>
+                  <ul class="experience-content">
+                    <li>Retail management software development - sales; storage; client control; provider control;</li>
+                    <li>Prospection / Software presentation.</li>
+                    <li>User training.</li>
+                  </ul>                    
+                </div>
+              </div>
+            </div>
+            <h2>EDUCATION</h2>
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2014-06</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience timeline-experience-sm">
+                  <span class="experience-title">SOFWARE DEVELOPMENT & ANALISYS</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">Methodist University of São Paulo</span>
+                    <span class="experience-location-city">SP/Brazil</span>
+                  </div>                    
+                </div>
+              </div>
+            </div>
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2012-04</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience timeline-experience-sm">
+                  <span class="experience-title">PHP DEVELOPER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">4Linux Open Software</span>
+                    <span class="experience-location-city">SP/Brazil</span>
+                  </div>
+                  <p>160 hours long</p>                    
+                </div>
+              </div>
+            </div>
+            <div class="timeline-row">
+              <div class="timeline-column timeline-column-dateboxes">
+                <div class="timeline-datebox">
+                  <span class="timeline-datebox-content">2014-06</span>
+                </div>  
+              </div>
+              <div class="timeline-column-markers">
+                <span class="timeline-marker"></span>
+              </div>
+              <div class="timeline-column timeline-column-experiences">
+                <div class="timeline-experience timeline-experience-sm">
+                  <span class="experience-title">TECNICIAN PROGRAMMER</span>
+                  <div class="experience-location">
+                    <span class="experience-location-company">Pentagon Institute</span>
+                    <span class="experience-location-city">SP/Brazil</span>
+                  </div>
+                  <p>2 years long</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="page-layout-column column-skills">
+          <h2 style="margin-bottom:0px">INDEPENDENT</h2>
+          <h2 style="margin-top:0px">PROJECTS</h2>
+        </div>
+      </div>
+      <div class="resume-page-footer">
+        <a target="_blank" href="https://about.me/leandro.medeiros"><img src="assets/images/qr-code.png" class="qr-code" alt="QR-Code"></a>
+        <h4>
+          <a href="tel:+31638401140" class="phone">+31 (0) 6 38 40 11 40</a> | &#128231;
+          <a target="_blank" href="mailto:leandro.m.medeiros@me.com">leandro.m.medeiros@me.com</a> | 
+          <a target="_blank" href="https://linkedin.com/in/medeirosleandro"><img src="assets/images/linkedin-logo.png" class="linkedin-logo logo-dropshadow">/in/MedeirosLeandro</a>
+        </h4>
+        <h4>
+          Boompjes 43 Q, 3011 XB, Rotterdam - Netherlands
+        </h4>
+      </div>
+    </div>
+    -->
+  </body>
+</html>
