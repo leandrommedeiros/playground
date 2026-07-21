@@ -1,4 +1,8 @@
-# 🏍️ European Motorcycle Tour 2026
+---
+layout: default
+title: 🏍️ European Motorcycle Tour 2026
+permalink: /euro-road-trip/
+---
 ## 🇳🇱 Netherlands → 🇩🇪 Black Forest → 🇨🇭 Swiss Alps → 🇮🇹 Dolomites → 🇫🇷 Nice → 🇲🇨 Monaco → 🇫🇷 Route Napoléon → 🇫🇷 Verdon Gorge → 🇫🇷 Vosges → 🇱🇺 Luxembourg → 🇳🇱 Rotterdam
 
 > **Duration:** 15 Days
@@ -91,7 +95,7 @@ Rotterdam
 ## 📅 Day 1 — Rotterdam 🇳🇱 → Baden-Baden 🇩🇪
 
 📍 **Route**
-https://www.google.com/maps/dir/Rotterdam,+Netherlands/Eindhoven,+Netherlands/Koblenz,+Germany/Baden-Baden,+Germany/@49.8821945,5.1274151,7z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x47c433102912f281:0x22877a113d077d2a!2m2!1d4.4777326!2d51.9244201!1m5!1m1!1s0x47c6d91b5579c39f:0x400de5a8d1e7840!2m2!1d5.4697225!2d51.441642!1m5!1m1!1s0x47be612984d334dd:0x422d4d510db1b80!2m2!1d7.5889959!2d50.3569429!1m5!1m1!1s0x479718471b7f0dfb:0x41ffd33b118b6e0!2m2!1d8.2397608!2d48.76564!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Rotterdam,+Netherlands/Eindhoven,+Netherlands/Koblenz,+Germany/Baden-Baden,+Germany/@49.8821945,5.1274151,7z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x47c433102912f281:0x22877a113d077d2a!2m2!1d4.4777326!2d51.9244201!1m5!1m1!1s0x47c6d91b5579c39f:0x400de5a8d1e7840!2m2!1d5.4697225!2d51.441642!1m5!1m1!1s0x47be612984d334dd:0x422d4d510db1b80!2m2!1d7.5889959!2d50.3569429!1m5!1m1!1s0x479718471b7f0dfb:0x41ffd33b118b6e0!2m2!1d8.2397608!2d48.76564!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **560 km**
@@ -146,7 +150,7 @@ Reach the Black Forest comfortably while avoiding arriving after sunset.
 ## 📅 Day 2 — Black Forest Loop 🇩🇪
 
 📍 **Route**
-https://www.google.com/maps/dir/Baden-Baden,+Germany/Mummelsee,+Seebach,+Germany/Wolfach,+Germany/Hinterzarten,+Germany/Freiburg+im+Breisgau,+Germany/Baden-Baden,+Germany/@48.337894,7.8012828,9z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x479718471b7f0dfb:0x41ffd33b118b6e0!2m2!1d8.2397608!2d48.76564!1m5!1m1!1s0x47972740bc412cb5:0xa25255474889c20!2m2!1d8.201667!2d48.597222!1m5!1m1!1s0x47912443a44d82b3:0x422d4d510db20d0!2m2!1d8.2229598!2d48.2987113!1m5!1m1!1s0x4790e66ea9d1b0d7:0x422d4d510db1d60!2m2!1d8.1069411!2d47.9061619!1m5!1m1!1s0x47911b26560b065b:0x422d4d510db0f30!2m2!1d7.8421043!2d47.9990077!1m5!1m1!1s0x479718471b7f0dfb:0x41ffd33b118b6e0!2m2!1d8.2397608!2d48.76564!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Baden-Baden,+Germany/Mummelsee,+Seebach,+Germany/Wolfach,+Germany/Hinterzarten,+Germany/Freiburg+im+Breisgau,+Germany/Baden-Baden,+Germany/@48.337894,7.8012828,9z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x479718471b7f0dfb:0x41ffd33b118b6e0!2m2!1d8.2397608!2d48.76564!1m5!1m1!1s0x47972740bc412cb5:0xa25255474889c20!2m2!1d8.201667!2d48.597222!1m5!1m1!1s0x47912443a44d82b3:0x422d4d510db20d0!2m2!1d8.2229598!2d48.2987113!1m5!1m1!1s0x4790e66ea9d1b0d7:0x422d4d510db1d60!2m2!1d8.1069411!2d47.9061619!1m5!1m1!1s0x47911b26560b065b:0x422d4d510db0f30!2m2!1d7.8421043!2d47.9990077!1m5!1m1!1s0x479718471b7f0dfb:0x41ffd33b118b6e0!2m2!1d8.2397608!2d48.76564!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **320 km**
@@ -210,7 +214,7 @@ Ride the best roads of the northern and southern Black Forest before tourist tra
 ## 📅 Day 3 — Baden-Baden 🇩🇪 → Andermatt 🇨🇭
 
 📍 **Route**
-https://www.google.com/maps/dir/Baden-Baden,+Germany/Basel,+Switzerland/Meiringen,+Switzerland/Grimsel+Pass,+Guttannen,+Switzerland/Furka+Pass,+Realp,+Switzerland/Andermatt,+Switzerland/@46.6338871,7.8421043,8z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x479718471b7f0dfb:0x41ffd33b118b6e0!2m2!1d8.2397608!2d48.76564!1m5!1m1!1s0x4791b84f3ba102b9:0x412da74e1d13730!2m2!1d7.5885761!2d47.5595986!1m5!1m1!1s0x478f71253e7f48cb:0x400de5a8d1e79c0!2m2!1d8.181829!2d46.727909!1m5!1m1!1s0x478f6580f488e04b:0x88f9185a5398d361!2m2!1d8.333889!2d46.571667!1m5!1m1!1s0x478572186be34265:0x1d08e50b73c3fa0!2m2!1d8.416111!2d46.572778!1m5!1m1!1s0x47857617b0d77bfb:0x400de5a8d1e7a50!2m2!1d8.5947847!2d46.6322986!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Baden-Baden,+Germany/Basel,+Switzerland/Meiringen,+Switzerland/Grimsel+Pass,+Guttannen,+Switzerland/Furka+Pass,+Realp,+Switzerland/Andermatt,+Switzerland/@46.6338871,7.8421043,8z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x479718471b7f0dfb:0x41ffd33b118b6e0!2m2!1d8.2397608!2d48.76564!1m5!1m1!1s0x4791b84f3ba102b9:0x412da74e1d13730!2m2!1d7.5885761!2d47.5595986!1m5!1m1!1s0x478f71253e7f48cb:0x400de5a8d1e79c0!2m2!1d8.181829!2d46.727909!1m5!1m1!1s0x478f6580f488e04b:0x88f9185a5398d361!2m2!1d8.333889!2d46.571667!1m5!1m1!1s0x478572186be34265:0x1d08e50b73c3fa0!2m2!1d8.416111!2d46.572778!1m5!1m1!1s0x47857617b0d77bfb:0x400de5a8d1e7a50!2m2!1d8.5947847!2d46.6322986!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **340 km**
@@ -265,7 +269,7 @@ Cross into Switzerland, complete highway transit smoothly, and tackle high alpin
 ## 📅 Day 4 — Swiss Classic Passes Loop 🇨🇭
 
 📍 **Route**
-https://www.google.com/maps/dir/Andermatt,+Switzerland/Susten+Pass,+Gadmen,+Switzerland/Nufenen+Pass,+Bedretto,+Switzerland/Tremola,+Airolo,+Switzerland/Andermatt,+Switzerland/@46.5418195,8.3002872,10z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x47857617b0d77bfb:0x400de5a8d1e7a50!2m2!1d8.5947847!2d46.6322986!1m5!1m1!1s0x478f7811ef4f4ed7:0x1d08e50b73c3fa1!2m2!1d8.448056!2d46.729444!1m5!1m1!1s0x47858348b62551e3:0x1d08e50b73c3fa2!2m2!1d8.388333!2d46.478056!1m5!1m1!1s0x4785871efbb881b7:0x1d08e50b73c3fa3!2m2!1d8.608333!2d46.529167!1m5!1m1!1s0x47857617b0d77bfb:0x400de5a8d1e7a50!2m2!1d8.5947847!2d46.6322986!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Andermatt,+Switzerland/Susten+Pass,+Gadmen,+Switzerland/Nufenen+Pass,+Bedretto,+Switzerland/Tremola,+Airolo,+Switzerland/Andermatt,+Switzerland/@46.5418195,8.3002872,10z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x47857617b0d77bfb:0x400de5a8d1e7a50!2m2!1d8.5947847!2d46.6322986!1m5!1m1!1s0x478f7811ef4f4ed7:0x1d08e50b73c3fa1!2m2!1d8.448056!2d46.729444!1m5!1m1!1s0x47858348b62551e3:0x1d08e50b73c3fa2!2m2!1d8.388333!2d46.478056!1m5!1m1!1s0x4785871efbb881b7:0x1d08e50b73c3fa3!2m2!1d8.608333!2d46.529167!1m5!1m1!1s0x47857617b0d77bfb:0x400de5a8d1e7a50!2m2!1d8.5947847!2d46.6322986!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **160 km**
@@ -323,7 +327,7 @@ Conquer the famous Swiss alpine loop featuring technical hairpins, high elevatio
 ## 📅 Day 5 — Andermatt 🇨🇭 → Lake Como 🇮🇹
 
 📍 **Route**
-https://www.google.com/maps/dir/Andermatt,+Switzerland/Oberalp+Pass,+Tujetsch,+Switzerland/Spl%C3%BCgen+Pass,+Isola,+Sondrio,+Italy/Chiavenna,+Sondrio,+Italy/Menaggio,+Como,+Italy/@46.2201948,8.8122941,9z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x47857617b0d77bfb:0x400de5a8d1e7a50!2m2!1d8.5947847!2d46.6322986!1m5!1m1!1s0x4785025fbc705a1b:0x1d08e50b73c3fa4!2m2!1d8.671111!2d46.659167!1m5!1m1!1s0x478440bc43f0cb15:0x1d08e50b73c3fa5!2m2!1d9.3325!2d46.505278!1m5!1m1!1s0x4784155b0a3951bd:0x400de5a8d1e7180!2m2!1d9.3980556!2d46.3213889!1m5!1m1!1s0x4784234031df3323:0x400de5a8d1e7190!2m2!1d9.2383827!2d46.0210082!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Andermatt,+Switzerland/Oberalp+Pass,+Tujetsch,+Switzerland/Spl%C3%BCgen+Pass,+Isola,+Sondrio,+Italy/Chiavenna,+Sondrio,+Italy/Menaggio,+Como,+Italy/@46.2201948,8.8122941,9z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x47857617b0d77bfb:0x400de5a8d1e7a50!2m2!1d8.5947847!2d46.6322986!1m5!1m1!1s0x4785025fbc705a1b:0x1d08e50b73c3fa4!2m2!1d8.671111!2d46.659167!1m5!1m1!1s0x478440bc43f0cb15:0x1d08e50b73c3fa5!2m2!1d9.3325!2d46.505278!1m5!1m1!1s0x4784155b0a3951bd:0x400de5a8d1e7180!2m2!1d9.3980556!2d46.3213889!1m5!1m1!1s0x4784234031df3323:0x400de5a8d1e7190!2m2!1d9.2383827!2d46.0210082!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **170 km**
@@ -376,7 +380,7 @@ Transition smoothly from snowy high alpine peaks down into the warm, palm-lined 
 ## 📅 Day 6 — Lake Como 🇮🇹 → Cortina d'Ampezzo 🇮🇹
 
 📍 **Route**
-https://www.google.com/maps/dir/Menaggio,+Como,+Italy/Bormio,+Sondrio,+Italy/Passo+dello+Stelvio,+Bormio,+Sondrio,+Italy/Bolzano,+South+Tyrol,+Italy/Cortina+d'Ampezzo,+Belluno,+Italy/@46.381395,9.6010531,8z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x4784234031df3323:0x400de5a8d1e7190!2m2!1d9.2383827!2d46.0210082!1m5!1m1!1s0x4783307d0f19c089:0x400de5a8d1e70e0!2m2!1d10.370833!2d46.4675!1m5!1m1!1s0x47832675d69192eb:0x1d08e50b73c3fa6!2m2!1d10.453056!2d46.529167!1m5!1m1!1s0x47829c29377f48cb:0x400de5a8d1e70a0!2m2!1d11.3547582!2d46.4982953!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Menaggio,+Como,+Italy/Bormio,+Sondrio,+Italy/Passo+dello+Stelvio,+Bormio,+Sondrio,+Italy/Bolzano,+South+Tyrol,+Italy/Cortina+d'Ampezzo,+Belluno,+Italy/@46.381395,9.6010531,8z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x4784234031df3323:0x400de5a8d1e7190!2m2!1d9.2383827!2d46.0210082!1m5!1m1!1s0x4783307d0f19c089:0x400de5a8d1e70e0!2m2!1d10.370833!2d46.4675!1m5!1m1!1s0x47832675d69192eb:0x1d08e50b73c3fa6!2m2!1d10.453056!2d46.529167!1m5!1m1!1s0x47829c29377f48cb:0x400de5a8d1e70a0!2m2!1d11.3547582!2d46.4982953!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **360 km**
@@ -430,7 +434,7 @@ Cross northern Italy and conquer the king of passes (Passo dello Stelvio) en rou
 ## 📅 Day 7 — Dolomites Classic Loop 🇮🇹
 
 📍 **Route**
-https://www.google.com/maps/dir/Cortina+d'Ampezzo,+Belluno,+Italy/Passo+Pordoi,+Livinallongo+del+Col+di+Lana,+Belluno,+Italy/Passo+Sella,+Selva+di+Val+Gardena,+South+Tyrol,+Italy/Passo+Gardena,+Selva+di+Val+Gardena,+South+Tyrol,+Italy/Passo+Falzarego,+Cortina+d'Ampezzo,+Belluno,+Italy/Cortina+d'Ampezzo,+Belluno,+Italy/@46.5412951,11.8012828,10z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!1m5!1m1!1s0x4778436856033877:0x1d08e50b73c3fa7!2m2!1d11.8125!2d46.488056!1m5!1m1!1s0x4778438692550cb5:0x1d08e50b73c3fa8!2m2!1d11.7575!2d46.51!1m5!1m1!1s0x47784144ad3c14c3:0x1d08e50b73c3fa9!2m2!1d11.808611!2d46.549722!1m5!1m1!1s0x477839356608f4c1:0x1d08e50b73c3faa!2m2!1d12.019722!2d46.518889!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Cortina+d'Ampezzo,+Belluno,+Italy/Passo+Pordoi,+Livinallongo+del+Col+di+Lana,+Belluno,+Italy/Passo+Sella,+Selva+di+Val+Gardena,+South+Tyrol,+Italy/Passo+Gardena,+Selva+di+Val+Gardena,+South+Tyrol,+Italy/Passo+Falzarego,+Cortina+d'Ampezzo,+Belluno,+Italy/Cortina+d'Ampezzo,+Belluno,+Italy/@46.5412951,11.8012828,10z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!1m5!1m1!1s0x4778436856033877:0x1d08e50b73c3fa7!2m2!1d11.8125!2d46.488056!1m5!1m1!1s0x4778438692550cb5:0x1d08e50b73c3fa8!2m2!1d11.7575!2d46.51!1m5!1m1!1s0x47784144ad3c14c3:0x1d08e50b73c3fa9!2m2!1d11.808611!2d46.549722!1m5!1m1!1s0x477839356608f4c1:0x1d08e50b73c3faa!2m2!1d12.019722!2d46.518889!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **220 km**
@@ -489,7 +493,7 @@ Complete the world-renowned Sella Ronda pass circuit, experiencing continuous tw
 ## 📅 Day 8 — Dolomites Secret Twisties Loop 🇮🇹
 
 📍 **Route**
-https://www.google.com/maps/dir/Cortina+d'Ampezzo,+Belluno,+Italy/Passo+Giau,+Selva+di+Cadore,+Belluno,+Italy/Passo+Fedaia,+Canazei,+Trentino,+Italy/Alleghe,+Belluno,+Italy/Passo+San+Pellegrino,+Moena,+Trentino,+Italy/Cortina+d'Ampezzo,+Belluno,+Italy/@46.4388915,11.7512828,10z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!1m5!1m1!1s0x47783852233f2b1d:0x1d08e50b73c3fab!2m2!1d12.053889!2d46.4825!1m5!1m1!1s0x47784534887321e1:0x1d08e50b73c3fac!2m2!1d11.868333!2d46.456389!1m5!1m1!1s0x47783f3608ef12cb:0x400de5a8d1e6e00!2m2!1d12.0205835!2d46.4069811!1m5!1m1!1s0x477848f028cb61ed:0x1d08e50b73c3fad!2m2!1d11.785833!2d46.378056!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Cortina+d'Ampezzo,+Belluno,+Italy/Passo+Giau,+Selva+di+Cadore,+Belluno,+Italy/Passo+Fedaia,+Canazei,+Trentino,+Italy/Alleghe,+Belluno,+Italy/Passo+San+Pellegrino,+Moena,+Trentino,+Italy/Cortina+d'Ampezzo,+Belluno,+Italy/@46.4388915,11.7512828,10z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!1m5!1m1!1s0x47783852233f2b1d:0x1d08e50b73c3fab!2m2!1d12.053889!2d46.4825!1m5!1m1!1s0x47784534887321e1:0x1d08e50b73c3fac!2m2!1d11.868333!2d46.456389!1m5!1m1!1s0x47783f3608ef12cb:0x400de5a8d1e6e00!2m2!1d12.0205835!2d46.4069811!1m5!1m1!1s0x477848f028cb61ed:0x1d08e50b73c3fad!2m2!1d11.785833!2d46.378056!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **250 km**
@@ -545,7 +549,7 @@ Ride the single best motorcycle pass in the region (Passo Giau) early, followed 
 ## 📅 Day 9 — Cortina d'Ampezzo 🇮🇹 → Cuneo 🇮🇹
 
 📍 **Route**
-https://www.google.com/maps/dir/Cortina+d'Ampezzo,+Belluno,+Italy/Piacenza,+PC,+Italy/Asti,+AT,+Italy/Cuneo,+CN,+Italy/@45.0338871,9.8421043,7z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!1m5!1m1!1s0x4780dd332766f281:0x400de5a8d1e7070!2m2!1d9.6929849!2d45.0526201!1m5!1m1!1s0x47879201a0cb7945:0x400de5a8d1e7370!2m2!1d8.2068875!2d44.9008272!1m5!1m1!1s0x12d338f070b135bb:0x400de5a8d1e72e0!2m2!1d7.5482839!2d44.3844766!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Cortina+d'Ampezzo,+Belluno,+Italy/Piacenza,+PC,+Italy/Asti,+AT,+Italy/Cuneo,+CN,+Italy/@45.0338871,9.8421043,7z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!1m5!1m1!1s0x4780dd332766f281:0x400de5a8d1e7070!2m2!1d9.6929849!2d45.0526201!1m5!1m1!1s0x47879201a0cb7945:0x400de5a8d1e7370!2m2!1d8.2068875!2d44.9008272!1m5!1m1!1s0x12d338f070b135bb:0x400de5a8d1e72e0!2m2!1d7.5482839!2d44.3844766!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **580 km**
@@ -599,7 +603,7 @@ Transit efficiently across the Po Valley highway corridor to set up for the High
 ## 📅 Day 10 — Cuneo 🇮🇹 → Nice 🇫🇷
 
 📍 **Route**
-https://www.google.com/maps/dir/Cuneo,+CN,+Italy/Col+de+Tende,+Tende,+France/Col+de+Turini,+La+Boll%C3%A8ne-V%C3%A9subie,+France/Col+de+Braus,+Luc%C3%A9ram,+France/Nice,+France/@43.8943891,7.2421043,9z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12d338f070b135bb:0x400de5a8d1e72e0!2m2!1d7.5482839!2d44.3844766!1m5!1m1!1s0x12cd71eb325a7a7d:0x1d08e50b73c3fae!2m2!1d7.561944!2d44.148889!1m5!1m1!1s0x12cd3145bd9bf303:0x1d08e50b73c3faf!2m2!1d7.391389!2d43.957778!1m5!1m1!1s0x12cdd94d35eb7eb7:0x1d08e50b73c3fb0!2m2!1d7.3975!2d43.871944!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Cuneo,+CN,+Italy/Col+de+Tende,+Tende,+France/Col+de+Turini,+La+Boll%C3%A8ne-V%C3%A9subie,+France/Col+de+Braus,+Luc%C3%A9ram,+France/Nice,+France/@43.8943891,7.2421043,9z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12d338f070b135bb:0x400de5a8d1e72e0!2m2!1d7.5482839!2d44.3844766!1m5!1m1!1s0x12cd71eb325a7a7d:0x1d08e50b73c3fae!2m2!1d7.561944!2d44.148889!1m5!1m1!1s0x12cd3145bd9bf303:0x1d08e50b73c3faf!2m2!1d7.391389!2d43.957778!1m5!1m1!1s0x12cdd94d35eb7eb7:0x1d08e50b73c3fb0!2m2!1d7.3975!2d43.871944!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **180 km**
@@ -656,7 +660,7 @@ Ride legendary Rally Monte Carlo mountain pass stages before dropping down to th
 ## 📅 Day 11 — Nice 🇫🇷 ↔️ Monaco 🇲🇨 (Day Trip)
 
 📍 **Route**
-https://www.google.com/maps/dir/Nice,+France/%C3%88ze,+France/Monaco/Menton,+France/Nice,+France/@43.7221945,7.3274151,11z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!1m5!1m1!1s0x12cddaa23253b751:0x40819a5fd979ad0!2m2!1d7.361549!2d43.727732!1m5!1m1!1s0x12cdc26f7b3f8531:0x22877a113d077d2b!2m2!1d7.4246158!2d43.7384176!1m5!1m1!1s0x12cdc3a8fbd74cfd:0x40819a5fd979a30!2m2!1d7.498181!2d43.774481!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Nice,+France/%C3%88ze,+France/Monaco/Menton,+France/Nice,+France/@43.7221945,7.3274151,11z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!1m5!1m1!1s0x12cddaa23253b751:0x40819a5fd979ad0!2m2!1d7.361549!2d43.727732!1m5!1m1!1s0x12cdc26f7b3f8531:0x22877a113d077d2b!2m2!1d7.4246158!2d43.7384176!1m5!1m1!1s0x12cdc3a8fbd74cfd:0x40819a5fd979a30!2m2!1d7.498181!2d43.774481!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **50 km**
@@ -713,7 +717,7 @@ A light-luggage cruise along the coastal cliff roads, exploring the Formula 1 tr
 ## 📅 Day 12 — Nice 🇫🇷 → Castellane 🇫🇷
 
 📍 **Route**
-https://www.google.com/maps/dir/Nice,+France/Grasse,+France/Escragnolles,+France/S%C3%A9ranon,+France/Castellane,+France/@43.7538871,6.8421043,10z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!1m5!1m1!1s0x12cc2572a1bfcb23:0x40819a5fd979b10!2m2!1d6.925761!2d43.658882!1m5!1m1!1s0x12cc32e8bf5b27bd:0x40819a5fd979b00!2m2!1d6.727581!2d43.729739!1m5!1m1!1s0x12cc36ebfe3d72ad:0x40819a5fd979af0!2m2!1d6.708892!2d43.770857!1m5!1m1!1s0x12cc3e3dfbd37edb:0x40819a5fd979ae0!2m2!1d6.513264!2d43.847141!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Nice,+France/Grasse,+France/Escragnolles,+France/S%C3%A9ranon,+France/Castellane,+France/@43.7538871,6.8421043,10z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!1m5!1m1!1s0x12cc2572a1bfcb23:0x40819a5fd979b10!2m2!1d6.925761!2d43.658882!1m5!1m1!1s0x12cc32e8bf5b27bd:0x40819a5fd979b00!2m2!1d6.727581!2d43.729739!1m5!1m1!1s0x12cc36ebfe3d72ad:0x40819a5fd979af0!2m2!1d6.708892!2d43.770857!1m5!1m1!1s0x12cc3e3dfbd37edb:0x40819a5fd979ae0!2m2!1d6.513264!2d43.847141!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **160 km**
@@ -769,7 +773,7 @@ Ride the fast, open, and sweeping curves of France's legendary Route Napoléon (
 ## 📅 Day 13 — Verdon Gorge Loop 🇫🇷
 
 📍 **Route**
-https://www.google.com/maps/dir/Castellane,+France/Route+des+Cr%C3%AAtes,+La+Palud-sur-Verdon,+France/Moustiers-Sainte-Marie,+France/Aiguines,+France/Castellane,+France/@43.7821945,6.3274151,10z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12cc3e3dfbd37edb:0x40819a5fd979ae0!2m2!1d6.513264!2d43.847141!1m5!1m1!1s0x12cc43a8fbd74cfd:0x1d08e50b73c3fb1!2m2!1d6.341818!2d43.778819!1m5!1m1!1s0x12cc4f36a8ef12cb:0x40819a5fd979ad0!2m2!1d6.221882!2d43.845812!1m5!1m1!1s0x12cc41e8fbd74cfd:0x40819a5fd979ac0!2m2!1d6.242502!2d43.775833!1m5!1m1!1s0x12cc3e3dfbd37edb:0x40819a5fd979ae0!2m2!1d6.513264!2d43.847141!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Castellane,+France/Route+des+Cr%C3%AAtes,+La+Palud-sur-Verdon,+France/Moustiers-Sainte-Marie,+France/Aiguines,+France/Castellane,+France/@43.7821945,6.3274151,10z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12cc3e3dfbd37edb:0x40819a5fd979ae0!2m2!1d6.513264!2d43.847141!1m5!1m1!1s0x12cc43a8fbd74cfd:0x1d08e50b73c3fb1!2m2!1d6.341818!2d43.778819!1m5!1m1!1s0x12cc4f36a8ef12cb:0x40819a5fd979ad0!2m2!1d6.221882!2d43.845812!1m5!1m1!1s0x12cc41e8fbd74cfd:0x40819a5fd979ac0!2m2!1d6.242502!2d43.775833!1m5!1m1!1s0x12cc3e3dfbd37edb:0x40819a5fd979ae0!2m2!1d6.513264!2d43.847141!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **120 km**
@@ -826,7 +830,7 @@ Circle the lip of Europe's deepest canyon on narrow cliffside roads with massive
 ## 📅 Day 14 — Castellane 🇫🇷 → Colmar (Vosges) 🇫🇷
 
 📍 **Route**
-https://www.google.com/maps/dir/Castellane,+France/Sisteron,+France/Grenoble,+France/Besan%C3%A7on,+France/Colmar,+France/@46.2038871,6.1421043,7z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12cc3e3dfbd37edb:0x40819a5fd979ae0!2m2!1d6.513264!2d43.847141!1m5!1m1!1s0x12ccb72a23253b751:0x40819a5fd979b50!2m2!1d5.942781!2d44.195282!1m5!1m1!1s0x478af48d02120cb9:0x40819a5fd979b80!2m2!1d5.724524!2d45.188529!1m5!1m1!1s0x4792348325a7a7d:0x40819a5fd979ba0!2m2!1d6.0240539!2d47.237829!1m5!1m1!1s0x479165d3f28185bb:0x40819a5fd979be0!2m2!1d7.358512!2d48.079079!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Castellane,+France/Sisteron,+France/Grenoble,+France/Besan%C3%A7on,+France/Colmar,+France/@46.2038871,6.1421043,7z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12cc3e3dfbd37edb:0x40819a5fd979ae0!2m2!1d6.513264!2d43.847141!1m5!1m1!1s0x12ccb72a23253b751:0x40819a5fd979b50!2m2!1d5.942781!2d44.195282!1m5!1m1!1s0x478af48d02120cb9:0x40819a5fd979b80!2m2!1d5.724524!2d45.188529!1m5!1m1!1s0x4792348325a7a7d:0x40819a5fd979ba0!2m2!1d6.0240539!2d47.237829!1m5!1m1!1s0x479165d3f28185bb:0x40819a5fd979be0!2m2!1d7.358512!2d48.079079!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **620 km**
@@ -879,7 +883,7 @@ Complete a high-distance northbound transit day across Eastern France to reach t
 ## 📅 Day 15 — Colmar 🇫🇷 → Luxembourg 🇱🇺 → Rotterdam 🇳🇱
 
 📍 **Route**
-https://www.google.com/maps/dir/Colmar,+France/Route+des+Cr%C3%AAtes,+Vosges,+France/Metz,+France/Echternach,+Luxembourg/Rotterdam,+Netherlands/@49.6038871,6.1421043,7z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x479165d3f28185bb:0x40819a5fd979be0!2m2!1d7.358512!2d48.079079!1m5!1m1!1s0x479383a8fbd74cfd:0x1d08e50b73c3fb2!2m2!1d7.0125!2d48.025!1m5!1m1!1s0x47953258325a7a7d:0x400de5a8d1e7800!2m2!1d6.1757156!2d49.1193089!1m5!1m1!1s0x47954318325a7a7d:0x400de5a8d1e7810!2m2!1d6.422222!2d49.811667!1m5!1m1!1s0x47c433102912f281:0x22877a113d077d2a!2m2!1d4.4777326!2d51.9244201!3e0?entry=ttu
+[Google Maps](https://www.google.com/maps/dir/Colmar,+France/Route+des+Cr%C3%AAtes,+Vosges,+France/Metz,+France/Echternach,+Luxembourg/Rotterdam,+Netherlands/@49.6038871,6.1421043,7z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x479165d3f28185bb:0x40819a5fd979be0!2m2!1d7.358512!2d48.079079!1m5!1m1!1s0x479383a8fbd74cfd:0x1d08e50b73c3fb2!2m2!1d7.0125!2d48.025!1m5!1m1!1s0x47953258325a7a7d:0x400de5a8d1e7800!2m2!1d6.1757156!2d49.1193089!1m5!1m1!1s0x47954318325a7a7d:0x400de5a8d1e7810!2m2!1d6.422222!2d49.811667!1m5!1m1!1s0x47c433102912f281:0x22877a113d077d2a!2m2!1d4.4777326!2d51.9244201!3e0?entry=ttu)
 
 🏍️ **Estimated distance**
 **540 km**
