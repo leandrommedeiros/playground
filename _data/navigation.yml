@@ -1,3 +1,172 @@
+# Sidebar navigation for the KatuOS documentation
+katu-os:
+  - title: "📖 Documentation"
+    children:
+      - title: "Home"
+        url: /katu-os/
+      - title: "Project Overview"
+        url: /katu-os/project/
+      - title: "Releases"
+        url: /katu-os/releases/
+  - title: "📘 Application Developer Guide"
+    children:
+      - title: "Overview"
+        url: /katu-os/manuals/application-developer-guide/
+      - title: "1. Introduction"
+        url: /katu-os/manuals/application-developer-guide/1-introduction/
+      - title: "2. Kernel Architecture and API Organization"
+        url: /katu-os/manuals/application-developer-guide/2-kernel-architecture-and-api-organization/
+      - title: "3. Tasks and Kernel Lifecycle"
+        url: /katu-os/manuals/application-developer-guide/3-tasks-and-kernel-lifecycle/
+      - title: "4. Philosophy of Scheduling"
+        url: /katu-os/manuals/application-developer-guide/4-philosophy-of-scheduling/
+      - title: "5. Scheduler"
+        url: /katu-os/manuals/application-developer-guide/5-scheduler/
+      - title: "6. Kernel Time Management"
+        url: /katu-os/manuals/application-developer-guide/6-kernel-time-management/
+      - title: "7. Task Design Guidelines"
+        url: /katu-os/manuals/application-developer-guide/7-task-design-guidelines/
+      - title: "8. Synchronization Services"
+        url: /katu-os/manuals/application-developer-guide/8-synchronization-services/
+      - title: "9. Software Timers"
+        url: /katu-os/manuals/application-developer-guide/9-software-timers/
+      - title: "10. Kernel Maintenance Process"
+        url: /katu-os/manuals/application-developer-guide/10-kernel-maintenance-process/
+      - title: "11. Kernel Reliability and Runtime Integrity"
+        url: /katu-os/manuals/application-developer-guide/11-kernel-reliability-and-runtime-integrity/
+  - title: "📗 Kernel Architecture Manual"
+    children:
+      - title: "Overview"
+        url: /katu-os/manuals/kernel-architecture-manual/
+      - title: "1. Introduction"
+        url: /katu-os/manuals/kernel-architecture-manual/1-introduction/
+      - title: "2. CPU Load Monitoring"
+        url: /katu-os/manuals/kernel-architecture-manual/2-cpu-load-monitoring/
+      - title: "3. CPU Port Architecture"
+        url: /katu-os/manuals/kernel-architecture-manual/3-cpu-port-architecture/
+      - title: "4. Memory Architecture"
+        url: /katu-os/manuals/kernel-architecture-manual/4-memory-architecture/
+      - title: "5. Configuration Model"
+        url: /katu-os/manuals/kernel-architecture-manual/5-configuration-model/
+      - title: "6. Build and Configuration Architecture"
+        url: /katu-os/manuals/kernel-architecture-manual/6-build-and-configuration-architecture/
+      - title: "7. Application Hooks"
+        url: /katu-os/manuals/kernel-architecture-manual/7-application-hooks/
+      - title: "8. Porting Guide"
+        url: /katu-os/manuals/kernel-architecture-manual/8-porting-guide/
+      - title: "9. Design Rationale"
+        url: /katu-os/manuals/kernel-architecture-manual/9-design-rationale/
+      - title: "10. Internal Kernel APIs"
+        url: /katu-os/manuals/kernel-architecture-manual/10-internal-kernel-apis/
+      - title: "11. Closing Statement"
+        url: /katu-os/manuals/kernel-architecture-manual/11-closing-statement/
+  - title: "📙 API Quick Reference"
+    children:
+      - title: "Overview"
+        url: /katu-os/manuals/api-quick-reference/
+      - title: "1. Introduction"
+        url: /katu-os/manuals/api-quick-reference/1-introduction/
+      - title: "2. Kernel Lifecycle"
+        url: /katu-os/manuals/api-quick-reference/2-kernel-lifecycle/
+      - title: "3. Task Management"
+        url: /katu-os/manuals/api-quick-reference/3-task-management/
+      - title: "4. Kernel Time"
+        url: /katu-os/manuals/api-quick-reference/4-kernel-time/
+      - title: "5. Task Notifications"
+        url: /katu-os/manuals/api-quick-reference/5-task-notifications/
+      - title: "6. Semaphores"
+        url: /katu-os/manuals/api-quick-reference/6-semaphores/
+      - title: "7. Queues"
+        url: /katu-os/manuals/api-quick-reference/7-queues/
+      - title: "9. Diagnostics"
+        url: /katu-os/manuals/api-quick-reference/9-diagnostics/
+      - title: "Appendix A — Configuration Macros"
+        url: /katu-os/manuals/api-quick-reference/appendix-a-configuration-macros/
+      - title: "Appendix B — Common Constants"
+        url: /katu-os/manuals/api-quick-reference/appendix-b-common-constants/
+      - title: "Appendix C — Alphabetical API Index"
+        url: /katu-os/manuals/api-quick-reference/appendix-c-alphabetical-api-index/
+      - title: "Related Documentation"
+        url: /katu-os/manuals/api-quick-reference/related-documentation/
+  - title: "📐 Standards"
+    children:
+      - title: "Documentation Guide"
+        url: /katu-os/standards/documentation-guide/
+      - title: "Editorial Principles"
+        url: /katu-os/standards/editorial-principles/
+  - title: "📐 Documentation Style Guide"
+    children:
+      - title: "Overview"
+        url: /katu-os/standards/style-guide/
+      - title: "1. Purpose"
+        url: /katu-os/standards/style-guide/1-purpose/
+      - title: "2. Documentation Philosophy"
+        url: /katu-os/standards/style-guide/2-documentation-philosophy/
+      - title: "3. Writing Style"
+        url: /katu-os/standards/style-guide/3-writing-style/
+      - title: "4. English Standard"
+        url: /katu-os/standards/style-guide/4-english-standard/
+      - title: "5. File Header"
+        url: /katu-os/standards/style-guide/5-file-header/
+      - title: "6. Section Headers"
+        url: /katu-os/standards/style-guide/6-section-headers/
+      - title: "7. Function Documentation"
+        url: /katu-os/standards/style-guide/7-function-documentation/
+      - title: "8. Structure Documentation"
+        url: /katu-os/standards/style-guide/8-structure-documentation/
+      - title: "9. Variable Comments"
+        url: /katu-os/standards/style-guide/9-variable-comments/
+      - title: "10. Inline Comments"
+        url: /katu-os/standards/style-guide/10-inline-comments/
+      - title: "11. Architectural Comments"
+        url: /katu-os/standards/style-guide/11-architectural-comments/
+      - title: "12. Terminology"
+        url: /katu-os/standards/style-guide/12-terminology/
+      - title: "13. Document the Architecture"
+        url: /katu-os/standards/style-guide/13-document-the-architecture/
+      - title: "14. KatuOS Design Principles"
+        url: /katu-os/standards/style-guide/14-katuos-design-principles/
+      - title: "15. Final Rule"
+        url: /katu-os/standards/style-guide/15-final-rule/
+      - title: "16. Preserve Kernel Core Hardware Independence"
+        url: /katu-os/standards/style-guide/16-preserve-kernel-core-hardware-independence/
+      - title: "17. Document Configuration Semantics"
+        url: /katu-os/standards/style-guide/17-document-configuration-semantics/
+      - title: "18. Describe Services Before Their Implementation"
+        url: /katu-os/standards/style-guide/18-describe-services-before-their-implementation/
+      - title: "19. Keep Examples Platform Independent"
+        url: /katu-os/standards/style-guide/19-keep-examples-platform-independent/
+      - title: "20. Document Services Before Internal Infrastructure"
+        url: /katu-os/standards/style-guide/20-document-services-before-internal-infrastructure/
+      - title: "21. Document Internal Modules as Architectural Components"
+        url: /katu-os/standards/style-guide/21-document-internal-modules-as-architectural-components/
+      - title: "22. Separate Kernel Mechanisms from Application Policies"
+        url: /katu-os/standards/style-guide/22-separate-kernel-mechanisms-from-application-policies/
+      - title: "23. Document Architectural Invariants"
+        url: /katu-os/standards/style-guide/23-document-architectural-invariants/
+      - title: "24. Architecture Before Platform"
+        url: /katu-os/standards/style-guide/24-architecture-before-platform/
+      - title: "25. Maintain a Common Editorial Identity Across CPU Ports"
+        url: /katu-os/standards/style-guide/25-maintain-a-common-editorial-identity-across-cpu-ports/
+      - title: "26. Adopt a Consistent Chapter Organization"
+        url: /katu-os/standards/style-guide/26-adopt-a-consistent-chapter-organization/
+      - title: "27. Document Public APIs with Practical Completeness"
+        url: /katu-os/standards/style-guide/27-document-public-apis-with-practical-completeness/
+      - title: "28. Standardized Document Header"
+        url: /katu-os/standards/style-guide/28-standardized-document-header/
+      - title: "29. Document Classification"
+        url: /katu-os/standards/style-guide/29-document-classification/
+      - title: "30. Closing Statement"
+        url: /katu-os/standards/style-guide/30-closing-statement/
+  - title: "🎨 Brand"
+    children:
+      - title: "Brand Overview"
+        url: /katu-os/brand/brand-overview/
+      - title: "Brand Assets"
+        url: /katu-os/brand/brand-assets/
+      - title: "Brand Specification"
+        url: /katu-os/brand/brand-specification/
+
 # Sidebar navigation for the Euro Road Trip standalone project
 euro-road-trip:
   - title: "🇩🇪 Germany"

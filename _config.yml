@@ -71,3 +71,13 @@ defaults:
         nav: "euro-road-trip"
       toc: true
       toc_sticky: true
+  # KatuOS documentation pages
+  - scope:
+      path: "katu-os"
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "katu-os"
+      toc: true
+      toc_sticky: true

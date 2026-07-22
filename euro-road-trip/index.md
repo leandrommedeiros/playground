@@ -4,7 +4,7 @@ title: "🇪🇺 European Motorcycle Tour 2026 🏍️"
 excerpt: "*The destination is just an excuse to discover another great road.*"
 header:
   overlay_image: /assets/images/eurotrip/splash.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.5
 permalink: /euro-road-trip/
 ---
 
