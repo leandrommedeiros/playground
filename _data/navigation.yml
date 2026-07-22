@@ -1,0 +1,50 @@
+# Sidebar navigation for the Euro Road Trip standalone project
+euro-road-trip:
+  - title: "🇩🇪 Germany"
+    children:
+      - title: "Day 1 — Rotterdam → Baden-Baden"
+        url: /euro-road-trip/diary/day-01
+      - title: "Day 2 — Black Forest Loop"
+        url: /euro-road-trip/diary/day-02
+  - title: "🇨🇭 Switzerland"
+    children:
+      - title: "Day 3 — Baden-Baden → Andermatt"
+        url: /euro-road-trip/diary/day-03
+      - title: "Day 4 — Swiss Classic Passes"
+        url: /euro-road-trip/diary/day-04
+  - title: "🇮🇹 Italy"
+    children:
+      - title: "Day 5 — Andermatt → Lake Como"
+        url: /euro-road-trip/diary/day-05
+      - title: "Day 6 — Lake Como → Cortina"
+        url: /euro-road-trip/diary/day-06
+      - title: "Day 7 — Dolomites Classic Loop"
+        url: /euro-road-trip/diary/day-07
+      - title: "Day 8 — Dolomites Secret Twisties"
+        url: /euro-road-trip/diary/day-08
+      - title: "Day 9 — Cortina → Cuneo"
+        url: /euro-road-trip/diary/day-09
+  - title: "🇫🇷 France & 🇲🇨 Monaco"
+    children:
+      - title: "Day 10 — Cuneo → Nice"
+        url: /euro-road-trip/diary/day-10
+      - title: "Day 11 — Nice ↔ Monaco"
+        url: /euro-road-trip/diary/day-11
+      - title: "Day 12 — Nice → Castellane"
+        url: /euro-road-trip/diary/day-12
+      - title: "Day 13 — Verdon Gorge Loop"
+        url: /euro-road-trip/diary/day-13
+      - title: "Day 14 — Castellane → Colmar"
+        url: /euro-road-trip/diary/day-14
+  - title: "🇳🇱 Homebound"
+    children:
+      - title: "Day 15 — Colmar → Rotterdam"
+        url: /euro-road-trip/diary/day-15
+  - title: "📋 Reference"
+    children:
+      - title: "Pre-Departure Checklists"
+        url: /euro-road-trip/checklists
+      - title: "Daily Routines"
+        url: /euro-road-trip/daily-routines
+      - title: "Recording Guide"
+        url: /euro-road-trip/recording-guide

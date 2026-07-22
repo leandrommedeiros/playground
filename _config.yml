@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pages Playground
+title: Leandro Medeiros' Pages Playground
 email: leandro.m.medeiros@me.com
 description: >-
   Playground repository for publishing web pages.
@@ -30,12 +30,44 @@ github_username: leandrommedeiros
 
 # Build settings
 # theme: minima
-remote_theme: pages-themes/cayman@v0.2.0
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "air"
+
+#remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 show_downloads: false
 
 github:
   is_project_page: false
+
+# The theme is installed as a gem (see Gemfile); `vendor/minimal-mistakes` is only
+# kept around as a local reference copy of the theme's source and must not be
+# built as site content.
+exclude:
+  - vendor
+
+# Markdown Processing (kramdown auto_ids are required for the sticky TOC
+# used on the euro-road-trip pages to generate in-page anchor links)
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+
+# Defaults
+defaults:
+  # Euro Road Trip standalone project pages
+  - scope:
+      path: "euro-road-trip"
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "euro-road-trip"
+      toc: true
+      toc_sticky: true
