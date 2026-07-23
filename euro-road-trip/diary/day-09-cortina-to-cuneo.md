@@ -6,6 +6,8 @@ permalink: /euro-road-trip/diary/day-09/
 ### 📍 Route
 [Google Maps](https://www.google.com/maps/dir/Cortina+d'Ampezzo,+Belluno,+Italy/Piacenza,+PC,+Italy/Asti,+AT,+Italy/Cuneo,+CN,+Italy/@45.0338871,9.8421043,7z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!1m5!1m1!1s0x4780dd332766f281:0x400de5a8d1e7070!2m2!1d9.6929849!2d45.0526201!1m5!1m1!1s0x47879201a0cb7945:0x400de5a8d1e7370!2m2!1d8.2068875!2d44.9008272!1m5!1m1!1s0x12d338f070b135bb:0x400de5a8d1e72e0!2m2!1d7.5482839!2d44.3844766!3e0?entry=ttu){:target="_blank"}
 
+![Route Map](/playground/assets/images/eurotrip/diary/day-09.png)
+
 ### 🧑‍💻 Planning
 
 | 🏍️ **Estimated distance** | ⏱️ **Estimated riding time** | 🕐 **Suggested departure** |

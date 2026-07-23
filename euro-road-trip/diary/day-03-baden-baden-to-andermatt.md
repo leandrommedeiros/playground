@@ -6,6 +6,8 @@ permalink: /euro-road-trip/diary/day-03/
 ### 📍 Route
 [Google Maps](https://www.google.com/maps/dir/Baden-Baden,+Germany/Basel,+Switzerland/Meiringen,+Switzerland/Grimsel+Pass,+Guttannen,+Switzerland/Furka+Pass,+Realp,+Switzerland/Andermatt,+Switzerland/@46.6338871,7.8421043,8z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x479718471b7f0dfb:0x41ffd33b118b6e0!2m2!1d8.2397608!2d48.76564!1m5!1m1!1s0x4791b84f3ba102b9:0x412da74e1d13730!2m2!1d7.5885761!2d47.5595986!1m5!1m1!1s0x478f71253e7f48cb:0x400de5a8d1e79c0!2m2!1d8.181829!2d46.727909!1m5!1m1!1s0x478f6580f488e04b:0x88f9185a5398d361!2m2!1d8.333889!2d46.571667!1m5!1m1!1s0x478572186be34265:0x1d08e50b73c3fa0!2m2!1d8.416111!2d46.572778!1m5!1m1!1s0x47857617b0d77bfb:0x400de5a8d1e7a50!2m2!1d8.5947847!2d46.6322986!3e0?entry=ttu){:target="_blank"}
 
+![Route Map](/playground/assets/images/eurotrip/diary/day-03.png)
+
 ### 🧑‍💻 Planning
 
 | 🏍️ **Estimated distance** | ⏱️ **Estimated riding time** | 🕐 **Suggested departure** |

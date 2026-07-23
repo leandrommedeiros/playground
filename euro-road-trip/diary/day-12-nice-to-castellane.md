@@ -6,6 +6,8 @@ permalink: /euro-road-trip/diary/day-12/
 ### 📍 Route
 [Google Maps](https://www.google.com/maps/dir/Nice,+France/Grasse,+France/Escragnolles,+France/S%C3%A9ranon,+France/Castellane,+France/@43.7538871,6.8421043,10z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!1m5!1m1!1s0x12cc2572a1bfcb23:0x40819a5fd979b10!2m2!1d6.925761!2d43.658882!1m5!1m1!1s0x12cc32e8bf5b27bd:0x40819a5fd979b00!2m2!1d6.727581!2d43.729739!1m5!1m1!1s0x12cc36ebfe3d72ad:0x40819a5fd979af0!2m2!1d6.708892!2d43.770857!1m5!1m1!1s0x12cc3e3dfbd37edb:0x40819a5fd979ae0!2m2!1d6.513264!2d43.847141!3e0?entry=ttu){:target="_blank"}
 
+![Route Map](/playground/assets/images/eurotrip/diary/day-12.png)
+
 ### 🧑‍💻 Planning
 
 | 🏍️ **Estimated distance** | ⏱️ **Estimated riding time** | 🕐 **Suggested departure** |

@@ -6,6 +6,8 @@ permalink: /euro-road-trip/diary/day-13/
 ### 📍 Route
 [Google Maps](https://www.google.com/maps/dir/Castellane,+France/Route+des+Cr%C3%AAtes,+La+Palud-sur-Verdon,+France/Moustiers-Sainte-Marie,+France/Aiguines,+France/Castellane,+France/@43.7821945,6.3274151,10z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12cc3e3dfbd37edb:0x40819a5fd979ae0!2m2!1d6.513264!2d43.847141!1m5!1m1!1s0x12cc43a8fbd74cfd:0x1d08e50b73c3fb1!2m2!1d6.341818!2d43.778819!1m5!1m1!1s0x12cc4f36a8ef12cb:0x40819a5fd979ad0!2m2!1d6.221882!2d43.845812!1m5!1m1!1s0x12cc41e8fbd74cfd:0x40819a5fd979ac0!2m2!1d6.242502!2d43.775833!1m5!1m1!1s0x12cc3e3dfbd37edb:0x40819a5fd979ae0!2m2!1d6.513264!2d43.847141!3e0?entry=ttu){:target="_blank"}
 
+![Route Map](/playground/assets/images/eurotrip/diary/day-13.png)
+
 ### 🧑‍💻 Planning
 
 | 🏍️ **Estimated distance** | ⏱️ **Estimated riding time** | 🕐 **Suggested departure** |

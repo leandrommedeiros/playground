@@ -6,6 +6,8 @@ permalink: /euro-road-trip/diary/day-11/
 ### 📍 Route
 [Google Maps](https://www.google.com/maps/dir/Nice,+France/%C3%88ze,+France/Monaco/Menton,+France/Nice,+France/@43.7221945,7.3274151,11z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!1m5!1m1!1s0x12cddaa23253b751:0x40819a5fd979ad0!2m2!1d7.361549!2d43.727732!1m5!1m1!1s0x12cdc26f7b3f8531:0x22877a113d077d2b!2m2!1d7.4246158!2d43.7384176!1m5!1m1!1s0x12cdc3a8fbd74cfd:0x40819a5fd979a30!2m2!1d7.498181!2d43.774481!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!3e0?entry=ttu){:target="_blank"}
 
+![Route Map](/playground/assets/images/eurotrip/diary/day-11.png)
+
 ### 🧑‍💻 Planning
 
 | 🏍️ **Estimated distance** | ⏱️ **Estimated riding time** | 🕐 **Suggested departure** |

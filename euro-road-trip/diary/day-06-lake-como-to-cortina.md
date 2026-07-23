@@ -6,6 +6,8 @@ permalink: /euro-road-trip/diary/day-06/
 ### 📍 Route
 [Google Maps](https://www.google.com/maps/dir/Menaggio,+Como,+Italy/Bormio,+Sondrio,+Italy/Passo+dello+Stelvio,+Bormio,+Sondrio,+Italy/Bolzano,+South+Tyrol,+Italy/Cortina+d'Ampezzo,+Belluno,+Italy/@46.381395,9.6010531,8z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x4784234031df3323:0x400de5a8d1e7190!2m2!1d9.2383827!2d46.0210082!1m5!1m1!1s0x4783307d0f19c089:0x400de5a8d1e70e0!2m2!1d10.370833!2d46.4675!1m5!1m1!1s0x47832675d69192eb:0x1d08e50b73c3fa6!2m2!1d10.453056!2d46.529167!1m5!1m1!1s0x47829c29377f48cb:0x400de5a8d1e70a0!2m2!1d11.3547582!2d46.4982953!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!3e0?entry=ttu){:target="_blank"}
 
+![Route Map](/playground/assets/images/eurotrip/diary/day-06.png)
+
 ### 🧑‍💻 Planning
 
 | 🏍️ **Estimated distance** | ⏱️ **Estimated riding time** | 🕐 **Suggested departure** |

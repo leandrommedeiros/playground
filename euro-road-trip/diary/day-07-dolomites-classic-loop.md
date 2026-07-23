@@ -6,6 +6,8 @@ permalink: /euro-road-trip/diary/day-07/
 ### 📍 Route
 [Google Maps](https://www.google.com/maps/dir/Cortina+d'Ampezzo,+Belluno,+Italy/Passo+Pordoi,+Livinallongo+del+Col+di+Lana,+Belluno,+Italy/Passo+Sella,+Selva+di+Val+Gardena,+South+Tyrol,+Italy/Passo+Gardena,+Selva+di+Val+Gardena,+South+Tyrol,+Italy/Passo+Falzarego,+Cortina+d'Ampezzo,+Belluno,+Italy/Cortina+d'Ampezzo,+Belluno,+Italy/@46.5412951,11.8012828,10z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!1m5!1m1!1s0x4778436856033877:0x1d08e50b73c3fa7!2m2!1d11.8125!2d46.488056!1m5!1m1!1s0x4778438692550cb5:0x1d08e50b73c3fa8!2m2!1d11.7575!2d46.51!1m5!1m1!1s0x47784144ad3c14c3:0x1d08e50b73c3fa9!2m2!1d11.808611!2d46.549722!1m5!1m1!1s0x477839356608f4c1:0x1d08e50b73c3faa!2m2!1d12.019722!2d46.518889!1m5!1m1!1s0x477835da66627581:0x400de5a8d1e6dd0!2m2!1d12.1356524!2d46.5369238!3e0?entry=ttu){:target="_blank"}
 
+![Route Map](/playground/assets/images/eurotrip/diary/day-07.png)
+
 ### 🧑‍💻 Planning
 
 | 🏍️ **Estimated distance** | ⏱️ **Estimated riding time** | 🕐 **Suggested departure** |

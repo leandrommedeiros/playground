@@ -6,6 +6,8 @@ permalink: /euro-road-trip/diary/day-04/
 ### 📍 Route
 [Google Maps](https://www.google.com/maps/dir/Andermatt,+Switzerland/Susten+Pass,+Gadmen,+Switzerland/Nufenen+Pass,+Bedretto,+Switzerland/Tremola,+Airolo,+Switzerland/Andermatt,+Switzerland/@46.5418195,8.3002872,10z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x47857617b0d77bfb:0x400de5a8d1e7a50!2m2!1d8.5947847!2d46.6322986!1m5!1m1!1s0x478f7811ef4f4ed7:0x1d08e50b73c3fa1!2m2!1d8.448056!2d46.729444!1m5!1m1!1s0x47858348b62551e3:0x1d08e50b73c3fa2!2m2!1d8.388333!2d46.478056!1m5!1m1!1s0x4785871efbb881b7:0x1d08e50b73c3fa3!2m2!1d8.608333!2d46.529167!1m5!1m1!1s0x47857617b0d77bfb:0x400de5a8d1e7a50!2m2!1d8.5947847!2d46.6322986!3e0?entry=ttu){:target="_blank"}
 
+![Route Map](/playground/assets/images/eurotrip/diary/day-04.png)
+
 ### 🧑‍💻 Planning
 
 | 🏍️ **Estimated distance** | ⏱️ **Estimated riding time** | 🕐 **Suggested departure** |

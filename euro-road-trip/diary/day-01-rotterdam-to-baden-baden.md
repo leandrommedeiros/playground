@@ -5,6 +5,8 @@ permalink: /euro-road-trip/diary/day-01/
 
 ### 📍 Route
 [Google Maps](https://www.google.com/maps/dir/Rotterdam,+Netherlands/Eindhoven,+Netherlands/Koblenz,+Germany/Baden-Baden,+Germany/@49.8821945,5.1274151,7z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x47c433102912f281:0x22877a113d077d2a!2m2!1d4.4777326!2d51.9244201!1m5!1m1!1s0x47c6d91b5579c39f:0x400de5a8d1e7840!2m2!1d5.4697225!2d51.441642!1m5!1m1!1s0x47be612984d334dd:0x422d4d510db1b80!2m2!1d7.5889959!2d50.3569429!1m5!1m1!1s0x479718471b7f0dfb:0x41ffd33b118b6e0!2m2!1d8.2397608!2d48.76564!3e0?entry=ttu){:target="_blank"}
+        
+![Route Map](/playground/assets/images/eurotrip/diary/day-01.png)
 
 ### 🧑‍💻 Planning
 

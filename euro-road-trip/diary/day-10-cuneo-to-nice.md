@@ -6,6 +6,8 @@ permalink: /euro-road-trip/diary/day-10/
 ### 📍 Route
 [Google Maps](https://www.google.com/maps/dir/Cuneo,+CN,+Italy/Col+de+Tende,+Tende,+France/Col+de+Turini,+La+Boll%C3%A8ne-V%C3%A9subie,+France/Col+de+Braus,+Luc%C3%A9ram,+France/Nice,+France/@43.8943891,7.2421043,9z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x12d338f070b135bb:0x400de5a8d1e72e0!2m2!1d7.5482839!2d44.3844766!1m5!1m1!1s0x12cd71eb325a7a7d:0x1d08e50b73c3fae!2m2!1d7.561944!2d44.148889!1m5!1m1!1s0x12cd3145bd9bf303:0x1d08e50b73c3faf!2m2!1d7.391389!2d43.957778!1m5!1m1!1s0x12cdd94d35eb7eb7:0x1d08e50b73c3fb0!2m2!1d7.3975!2d43.871944!1m5!1m1!1s0x12cdd0106a711131:0x40819a5fd979a70!2m2!1d7.2619532!2d43.7101728!3e0?entry=ttu){:target="_blank"}
 
+![Route Map](/playground/assets/images/eurotrip/diary/day-10.png)
+
 ### 🧑‍💻 Planning
 
 | 🏍️ **Estimated distance** | ⏱️ **Estimated riding time** | 🕐 **Suggested departure** |
